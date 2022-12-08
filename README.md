@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ylap0k7i3tm0gem7?svg=true)](https://ci.appveyor.com/project/Anna-grr/app-mbank)
